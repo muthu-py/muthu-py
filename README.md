@@ -24,13 +24,7 @@ I believe in keeping things clean: structured code, well-thought architecture, a
 
 ---
 
-### 🧠 LeetCode / NeetCode Progress
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muthu-py/muthu-py/main/assets/leetcode-stats.png" alt="LeetCode Stats" width="700"/>
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -68,18 +62,18 @@ I believe in keeping things clean: structured code, well-thought architecture, a
 
 ---
 
+### 🧠 LeetCode / NeetCode Progress
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muthu-py/muthu-py/main/assets/leetcode-stats.png" alt="LeetCode Stats" width="700"/>
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthu-py&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muthu-py&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthu-py&theme=tokyonight" />
 </p>
 
 ---
