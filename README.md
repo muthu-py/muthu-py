@@ -1,18 +1,27 @@
-<h1 align="center">Hey there 👋, I'm Muthuveal</h1>
-<h3 align="center">Backend-focused Developer | Applied AI Explorer | Network Innovator</h3>
+<table>
+  <tr>
+    <td>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muthu-py&label=Profile%20views&color=0e75b6&style=flat" alt="muthu-py" />
-</p>
+<h1 align="left">Hi 👋, I'm Muthuveal</h1>
+<h3 align="left">A curious and driven developer focused on building meaningful things with code.</h3>
 
----
+<ul>
+  <li>🔭 Currently working on: <strong>Realtime Traffic Monitoring & Optimized Route Suggestion</strong></li>
+  <li>📚 Diving deeper into: <strong>Machine Learning, ML Ops</strong></li>
+  <li>🎯 Learning every day, debugging like a detective, and building like an engineer.</li>
+  <li>📫 Reach me at: <strong>muthuveal2@gmail.com</strong></li>
+</ul>
 
-🚀 I'm not just building apps — I architect intelligent systems to solve real-world challenges.
+</td>
+    <td align="center" width="300">
+      <img src="https://raw.githubusercontent.com/muthu-py/muthu-py/main/assets/onesolution.png" width="150" alt="One Solution" />
+      <br/>
+      <img src="https://raw.githubusercontent.com/muthu-py/muthu-py/main/assets/workstack.png" width="150" alt="Work Stack" />
+    </td>
+  </tr>
+</table>
 
-- 🔬 Currently developing: **UrbanFlow — Realtime Traffic Monitor & Route Optimizer**  
-- 🧠 Learning deeply: **Machine Learning**, **Digital Twins**, **SDN (Ryu)**  
-- ⚙️ Tools I enjoy: Python, Flask, React, MongoDB, Scikit-Learn  
-- 📫 Reach out anytime: **muthuveal2@gmail.com**
+
 
 ---
 
@@ -62,7 +71,7 @@ I believe in keeping things clean: structured code, well-thought architecture, a
 
 ---
 
-### 🧠 LeetCode / NeetCode Progress
+### 🧠 LeetCode  Progress
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/muthu-py/muthu-py/main/assets/leetcode-stats.png" alt="LeetCode Stats" width="700"/>
