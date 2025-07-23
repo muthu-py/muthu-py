@@ -1,33 +1,44 @@
 <h1 align="center">Hey there 👋, I'm Muthuveal</h1>
 <h3 align="center">Backend-focused Developer | Applied AI Explorer | Network Innovator</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muthu-py&label=Profile%20views&color=0e75b6&style=flat" alt="muthu-py" />
+</p>
 
 ---
 
- I'm not just building apps — I architect intelligent systems to solve real-world challenges.
+🚀 I'm not just building apps — I architect intelligent systems to solve real-world challenges.
 
-- 🔬 Currently developing: **UrbanFlow — a Realtime Traffic Monitor & Route Optimizer**  
-- 🧠 Deep-diving into: **Machine Learning**, **Digital Twins**, and **Adaptive Networking**
-- ⚙️ Tools I love: Python, Flask, React, Ryu SDN, MongoDB, and scikit-learn
-- 📫 Reach out: **muthuveal2@gmail.com**
+- 🔬 Currently developing: **UrbanFlow — Realtime Traffic Monitor & Route Optimizer**  
+- 🧠 Learning deeply: **Machine Learning**, **Digital Twins**, **SDN (Ryu)**  
+- ⚙️ Tools I enjoy: Python, Flask, React, MongoDB, Scikit-Learn  
+- 📫 Reach out anytime: **muthuveal2@gmail.com**
 
 ---
 
-### 🧭 A Bit About Me
+### 🧭 About Me
 
-I'm a developer who thrives on backend logic and system-level thinking. Whether it’s designing smart excuses, optimizing bandwidth allocation using ML, or reimagining routing protocols with adaptive ECMP, I like to keep things practical, impactful, and intelligent.
+As someone passionate about backend systems, I'm always drawn toward logic-heavy, real-world applications — whether it's building an AI-based excuse generator or optimizing bandwidth in networked systems.  
 
-I'm also driven by a strong belief in clarity — in both code and communication. I break problems down, debug them cleanly, and document thoughtfully. Soft skills like adaptability, curiosity, and accountability are my power tools.
+I believe in keeping things clean: structured code, well-thought architecture, and effective documentation. I'm also focused on building my problem-solving skills steadily through consistent practice and exploration.
+
+---
+
+### 🧠 LeetCode / NeetCode Progress
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muthu-py/muthu-py/main/assets/leetcode-stats.png" alt="LeetCode Stats" width="700"/>
+</p>
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muthuveal-v-a57b612a9" target="blank">
+  <a href="https://linkedin.com/in/muthuveal v" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/muthuveal_v" target="blank">
+  <a href="https://leetcode.com/muthuveal_v" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
@@ -36,21 +47,15 @@ I'm also driven by a strong belief in clarity — in both code and communication
 
 ### 🧰 Tech Stack
 
-<!-- Languages & Frameworks -->
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  
-</p>
-
-<!-- Databases, AI, Tools -->
-<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
@@ -62,26 +67,6 @@ I'm also driven by a strong belief in clarity — in both code and communication
 </p>
 
 ---
-
-### 🧠 DSA & Competitive Programming
-
-<p align="left">
-  <a href="https://neetcode.io/practice" target="_blank">
-    <img src="https://img.shields.io/badge/NeetCode-DSA%20Practitioner-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="NeetCode badge" />
-  </a>
-  <a href="https://leetcode.com/muthuveal_v/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-muthuveal__v-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
-  </a>
-</p>
-
-- 🧩 Solving data structures & algorithms challenges on NeetCode roadmap.
-- 🔥 Strengthening problem-solving with topics like Graphs, Trees, DP, and Sliding Window.
-- 📊 Consistently improving speed and accuracy through curated problems.
-
----
-
----
-
 
 ### 📈 GitHub Stats
 
@@ -99,19 +84,12 @@ I'm also driven by a strong belief in clarity — in both code and communication
 
 ---
 
-### 🏆 Achievements
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=muthu-py&theme=onedark&margin-w=15&margin-h=15" />
-</p>
+### 💡 What's Next?
 
----
+- 🌍 Scaling **UrbanFlow** into a deployable ML product
+- 🤖 Building more intelligent systems that balance logic, learning, and simplicity
 
-### 💡 What’s Next?
-
-I'm currently refining my SDN + ML integration for intelligent traffic handling, working on a cross-domain excuse generator, and building scalable backend systems that can actually think a little.
-
-If you're into high-impact, logic-heavy, ML-infused backend work — let’s connect 🚀
+Let’s build something impactful together.
 
 ---
-
