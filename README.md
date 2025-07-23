@@ -24,7 +24,7 @@ I'm also driven by a strong belief in clarity — in both code and communication
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/muthuveal-v-a57b612a9" target="blank">
+  <a href="https://www.linkedin.com/in/muthuveal-v-a57b612a9" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/muthuveal_v" target="blank">
