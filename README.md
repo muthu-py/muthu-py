@@ -74,7 +74,7 @@ I believe in keeping things clean: structured code, well-thought architecture, a
 ### 🧠 LeetCode  Progress
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muthu-py/muthu-py/main/assets/leetcode-stats.png" alt="LeetCode Stats" width="700"/>
+  <img src="https://leetcard.jacoblin.cool/muthuveal_v?ext=heatmap" width="700"/>
 </p>
 
 ---
