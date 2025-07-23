@@ -63,6 +63,17 @@ I'm also driven by a strong belief in clarity — in both code and communication
 
 ---
 
+---
+
+### 🧠 DSA & Competitive Programming
+
+<p align="left">
+  <a href="https://neetcode.io/practice" target="_blank">
+    <img src="https://img.shields.io/badge/NeetCode-DSA%20Practitioner-orange?style=for-the-badge&logo=leetcode
+
+---
+
+
 ### 📈 GitHub Stats
 
 <p align="left">
