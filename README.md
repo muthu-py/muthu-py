@@ -63,13 +63,22 @@ I'm also driven by a strong belief in clarity — in both code and communication
 
 ---
 
----
-
 ### 🧠 DSA & Competitive Programming
 
 <p align="left">
   <a href="https://neetcode.io/practice" target="_blank">
-    <img src="https://img.shields.io/badge/NeetCode-DSA%20Practitioner-orange?style=for-the-badge&logo=leetcode
+    <img src="https://img.shields.io/badge/NeetCode-DSA%20Practitioner-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="NeetCode badge" />
+  </a>
+  <a href="https://leetcode.com/muthuveal_v/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-muthuveal__v-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
+  </a>
+</p>
+
+- 🧩 Solving data structures & algorithms challenges on NeetCode roadmap.
+- 🔥 Strengthening problem-solving with topics like Graphs, Trees, DP, and Sliding Window.
+- 📊 Consistently improving speed and accuracy through curated problems.
+
+---
 
 ---
 
